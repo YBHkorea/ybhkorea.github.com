@@ -7,6 +7,7 @@ permalink: /about/
 # Introduction 
 
 2013.03 - 한국기술교육대학교 전기전자통신공학부 입학
+2014.
 2019.09 - 한국기술교육대학교 창의융합공학협동과정 지능형전자기기융합전공 석사과정
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2033-8960" href="https://orcid.org/0000-0002-2033-8960" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2033-8960</a></div>
@@ -19,6 +20,7 @@ Deep Learning
 |Journal|
 |--------|
 |윤병현, 사재민, 최강선, “HMD를 이용한 휴머노이드 로봇 원격 조작 시스템,” 대한전자공학회논문지(2019, 9)|
+
 
 |Proceeding|
 |--------|
