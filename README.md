@@ -29,9 +29,13 @@ Deep Learning
 ### Proceeding
 
 윤병현, 최예찬, 정범채, 최강선, “**LiDAR와 다수카메라 사이의 외부 파라미터 근사 추정**,” 제 32회 영상처리 및 이해에 관한 워크샵(IPIU)(2020, 2)
+
 최예찬, 윤병현, 최강선, “**Real-time multiple QR codes detection and segmentation**,” 제 32회 영상처리 및 이해에 관한 워크샵(IPIU)(2020, 2)
+
 J.-M. Sa, B.-H. Yun, and K.-S. Choi, “**Human Pose Refinement for Reliable Robotic Teleoperation**,” International Conference on Consumer Electronics (ICCE) (2020, 1)
+
 윤병현, 최강선, “**자세 추정 기반 3차원 사람 모델 렌더링**”, 2019년 전자공학회 제 29회 신호처리 학술대회(2019, 9)
+
 윤병현, 최강선, “**원격 로봇 조작을 위한 비젼 시스템**”, 2019년 춘계학술발표대회 논문집 제 26권 제 1호(2019, 5)
 
 ---
