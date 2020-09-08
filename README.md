@@ -45,4 +45,4 @@ J.-M. Sa, B.-H. Yun, and K.-S. Choi, “**Human Pose Refinement for Reliable Rob
 
 
 
-<iframe width="40%" height="40%" src="https://www.youtube.com/embed/4ebNS0GxQME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/4ebNS0GxQME" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
