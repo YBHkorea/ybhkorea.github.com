@@ -12,6 +12,10 @@ LiDAR-Camera extrinsic calibration 관련 연구 동향을 알아봅시다.
 
 **볼드체**로 되어있지 않은 항목은 미작성된 부분입니다.
 
+---
+
+# Paper List
+
 <details>
 <summary>[2019, J. Field Robotics] Automatic targetless camera–LIDAR calibration by aligning edge with Gaussian mixture model</summary>
 <div markdown="1">
