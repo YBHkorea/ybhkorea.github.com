@@ -2,7 +2,7 @@
 layout: post
 title: extrinsic calibration 연대기
 date: 2020-09-08 12:28:23 +0900
-category: GitHub
+category: Extrinsic Calibration
 ---
 # Contents
 
