@@ -41,8 +41,45 @@ J.-M. Sa, B.-H. Yun, and K.-S. Choi, “**Human Pose Refinement for Reliable Rob
 ---
 # Research Experience
 
+<details>
+<summary>[2019.09] 비정형 공간위치를 가지는 다수개의 카메라에 대한 플렌옵틱 공간계 정합 기법 연구</summary>
+<div markdown="1">
+
+2019.09 ~ 2019.12
+
+임의의 위치에 있는 여러 카메라 간의 Extrinsic calibration 기법 연구
+
+MATLAB
+
 <img src="/Assets/images/Reextrinsic.png?raw=true" width="40%">
 
+</div>
+</details>
 
+<details>
+<summary>[2019.01] Robotic Tele-operation</summary>
+<div markdown="1">
 
-<iframe width="600" height="400" src="https://www.youtube.com/embed/4ebNS0GxQME" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+2019.01 ~ 2019.10
+
+원격지의 로봇을 제어하기 위한 Teleoperation System 개발
+
+MATLAB, C++, ROS programming
+
+[![Watch the video](https://img.youtube.com/vi/4ebNS0GxQME/maxresdefault.jpg)](https://youtu.be/4ebNS0GxQME)
+
+</div>
+</details>
+
+---
+# Contact
+
+E-mail
+- dqg0602@gmail.com
+- dqg0602@koreatech.ac.kr
+
+Kakao Open Talk
+- https://open.kakao.com/o/g4UOmWac /  참여코드 : ea8lg
+
+CV3VPL
+- https://cms3.koreatech.ac.kr/cv3vpl/index.do
