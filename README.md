@@ -45,7 +45,7 @@ J.-M. Sa, B.-H. Yun, and K.-S. Choi, “**Human Pose Refinement for Reliable Rob
 <summary>[2019.09] 비정형 공간위치를 가지는 다수개의 카메라에 대한 플렌옵틱 공간계 정합 기법 연구</summary>
 <div markdown="1">
 
-![REextrinsic](/Assets/images/Reextrinsic.png?raw=true)
+![REextrinsic](/Assets/images/REextrinsic.png?raw=true)
 
 2019.09 ~ 2019.12
 
