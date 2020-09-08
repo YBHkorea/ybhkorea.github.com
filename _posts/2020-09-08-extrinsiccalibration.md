@@ -24,10 +24,10 @@ LiDAR-Camera extrinsic calibration 관련 연구 동향을 알아봅시다.
 |:---:|:---|
 |저자|Jaehyeon Kang, Nakju L. Doh|
 |입력 데이터||
-|특징|
+|특징|{
 
 
-|
+}|
 |실험결과||
 
 </div>
