@@ -79,7 +79,7 @@ E-mail
 - dqg0602@koreatech.ac.kr
 
 Kakao Open Talk
-- https://open.kakao.com/o/g4UOmWac /  참여코드 : ea8lg
+- [https://open.kakao.com/o/g4UOmWac](https://open.kakao.com/o/g4UOmWac) /  참여코드 : ea8lg
 
 CV3VPL
-- https://cms3.koreatech.ac.kr/cv3vpl/index.do
+- [https://cms3.koreatech.ac.kr/cv3vpl/index.do](https://cms3.koreatech.ac.kr/cv3vpl/index.do)
