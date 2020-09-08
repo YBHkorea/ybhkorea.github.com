@@ -26,8 +26,8 @@ LiDAR-Camera extrinsic calibration 관련 연구 동향을 알아봅시다.
 
 **특징**
 
-- ㅇ
-- ㅇ
+- artificial target object가 필요하지 않음.
+- 두 센서의 edge를 정합하는 cost function을 minimize하여 calibration을 수행함.
 - ㅇ
 
 **실험결과**
