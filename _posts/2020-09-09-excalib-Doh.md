@@ -2,8 +2,7 @@
 layout: post
 title: "[2019, J. Field Robotics] Automatic targetless camera–LIDAR calibration by aligning edge with Gaussian mixture model"
 date: 2020-09-09 12:28:23 +0900
-category: Extrinsic_Calibration
-tag: Extrinsic_Calibration
+category: Extrinsic_Calibration, segmentation
 ---
 # Contents
 
