@@ -8,7 +8,7 @@ category: Extrinsic_Calibration
 
 LiDAR-Camera extrinsic calibration 관련 연구 동향을 알아봅시다.
 
-최신의 연구부터 수록되었습니다. 년도별로 정리하였고, 월은 신경쓰지 않았습니다.
+최신의 연구부터 수록되었습니다. 년도별로 정렬하였고, 월은 신경쓰지 않았습니다.
 
 **볼드체**로 되어있지 않은 항목은 미작성된 부분입니다.
 
@@ -20,6 +20,15 @@ LiDAR-Camera extrinsic calibration 관련 연구 동향을 알아봅시다.
 <summary>[2019, J. Field Robotics] Automatic targetless camera–LIDAR calibration by aligning edge with Gaussian mixture model</summary>
 <div markdown="1">
 
+|항목|내용|
+|:---:|:---|
+|저자|Jaehyeon Kang, Nakju L. Doh|
+|입력 데이터||
+|특징|
+
+
+|
+|실험결과||
 
 </div>
 </details>
