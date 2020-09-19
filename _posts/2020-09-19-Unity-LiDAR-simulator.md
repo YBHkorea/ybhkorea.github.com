@@ -23,7 +23,7 @@ Autonomous Vehicles"이다.
 
 build 폴더는 Unity의 빌드 결과물이므로, 볼 필요는 딱히 없고, Unity에서 unityproject 폴더를 열어서 사용하면 된다.
 
-![image1](/Assets/images/2020-09-19/i1.png?raw=true)
+![image1](/Assets/2020-09-19/i1.png?raw=true)
 
 # Project Open
 
@@ -31,7 +31,7 @@ build 폴더는 Unity의 빌드 결과물이므로, 볼 필요는 딱히 없고,
 
 유니티 Hub에서 추가를 눌러준다. 이번 포스트에서는 Unity 2019.4.9f1 버전을 사용하였다.
 
-![image3](/Assets/images/2020-09-19/3.png?raw=true)
+![image3](/Assets/2020-09-19/3.png?raw=true)
 
 열어주는 폴더는 unityproject/LidarSimulator 폴더이다.
 
