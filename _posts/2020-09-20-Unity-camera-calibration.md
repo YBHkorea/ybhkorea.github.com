@@ -15,31 +15,47 @@ use_math: true
 
 내부 파라미터의 경우 크게 변수는 3개를 갖는다고 볼 수 있다.
 
+
 $f$(focal length), $c_x$, $c_y$
+
 
 그런데 유니티에서 카메라의 스크린샷을 찍을 경우 해상도는 알 수 있고, 해상도의 절반값 정도는 $c_x$와 $c_y$로 보아도 무방하다.
 
 이미지크기가 1920 x 1080 인 경우, $c_x$와 $c_y$는 다음과 같이 설정한다.
+
+
 $c_x = (Image Width - 1) / 2 $
+
 $c_y = (Image Height - 1) / 2 $
+
 
 그럼 이제 남은 변수는 $f$ 하나이고, 이는 간단한 계산으로 얻을 수 있다.
 
+
 $\begin{pmatrix}x'\\y'\\ z'\end{pmatrix}=\begin{pmatrix}f & 0 & c_x \\ 0 & f & c_y\\ 0 & 0 & 1\end{pmatrix}\begin{pmatrix}x\\ y\\ z\end{pmatrix}$
+
 
 이므로 위 식에서 $z'$을 1로 바꾸기 위해 식을 살짝 수정해보자.
 
+
 $ \begin{pmatrix}x'/z'\\y'/z'\\ 1\end{pmatrix}=\begin{pmatrix}f & 0 & c_x \\ 0 & f & c_y\\ 0 & 0 & 1\end{pmatrix}\begin{pmatrix}x/z\\ y/z\\ 1\end{pmatrix} $
+
 
 그리고 여기서 $x'/z'$를 $\tilde{x}$로 치환하고 식을 정리하면,
 
+
 $\tilde{x} = f (x/z) + c_x$
+
 $\tilde{y} = f (y/z) + c_y$
+
 
 미지수가 $f$이므로 $f$에 대해 정리하면,
 
+
 $f =(\tilde{x} - c_x) (z/x)$
+
 $f =(\tilde{y} - c_y) (z/y)$
+
 
 이렇게 정리하고나니 미지수는 1개인데 식은 2개이다. 그러므로 식 1개만 써서 값을 구해도 된다.
 
