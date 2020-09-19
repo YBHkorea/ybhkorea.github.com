@@ -32,13 +32,13 @@ $c_y = (Image Height - 1) / 2 $
 그럼 이제 남은 변수는 $f$ 하나이고, 이는 간단한 계산으로 얻을 수 있다.
 
 
-$\begin{pmatrix}x'\\y'\\ z'\end{pmatrix}=\begin{pmatrix}f & 0 & c_x \\ 0 & f & c_y\\ 0 & 0 & 1\end{pmatrix}\begin{pmatrix}x\\ y\\ z\end{pmatrix}$
+$\begin{pmatrix}x' \\ y' \\ z'\end{pmatrix}=\begin{pmatrix}f & 0 & c_x \\ 0 & f & c_y\\ 0 & 0 & 1\end{pmatrix}\begin{pmatrix}x\\ y\\ z\end{pmatrix}$
 
 
 이므로 위 식에서 $z'$을 1로 바꾸기 위해 식을 살짝 수정해보자.
 
 
-$ \begin{pmatrix}x'/z'\\y'/z'\\ 1\end{pmatrix}=\begin{pmatrix}f & 0 & c_x \\ 0 & f & c_y\\ 0 & 0 & 1\end{pmatrix}\begin{pmatrix}x/z\\ y/z\\ 1\end{pmatrix} $
+$ \begin{pmatrix}x'/z' \\ y'/z' \\ 1\end{pmatrix}=\begin{pmatrix}f & 0 & c_x \\ 0 & f & c_y\\ 0 & 0 & 1\end{pmatrix}\begin{pmatrix} x/z \\ y/z \\ 1\end{pmatrix} $
 
 
 그리고 여기서 $x'/z'$를 $\tilde{x}$로 치환하고 식을 정리하면,
