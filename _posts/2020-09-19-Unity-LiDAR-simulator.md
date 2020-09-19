@@ -106,7 +106,7 @@ sep=
 
 그리고나서 아래와 같은 코드로 데이터를 읽어들였다.
 
-```MATLAB
+```python
 fileID = fopen('test.txt', 'r');
 formatSpec = '%f %f %f %f %f %f %f %f';
 sizeA = [8 Inf];
